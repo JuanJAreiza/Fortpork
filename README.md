@@ -14,9 +14,9 @@ Este repositorio corresponde a la entrega final del proyecto **Fortpork**. A con
 
 ## ✅ ¿Qué se logró?
 
-- Pantalla de introducción interactiva, similar a las utilizadas en videojuegos.
-- Sistema de **inicio de sesión**, **registro** y **cerrar sesión**.
-- Funcionalidad para **recuperación de contraseña**.
+- Pantalla de introducción interactiva, similar a las utilizadas en videojuegos mobiles.
+- Sistema de **inicio de sesión**, **registro** y **cerrar sesión** con feedback de control de errores.
+- Funcionalidad para **recuperación de contraseña** con feedback de control de errores.
 - Página de **inicio (Home)** que muestra dinámicamente el nombre del usuario que ha iniciado sesión.
 - **Panel de usuarios** con actualización en tiempo real, mostrando quiénes están conectados o desconectados.
 - **Notificaciones en tiempo real** al conectarse o desconectarse otros usuarios.
