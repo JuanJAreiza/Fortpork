@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "865468480010",
+    "firebase_url": "https://fortpork-2025-1-default-rtdb.firebaseio.com",
+    "project_id": "fortpork-2025-1",
+    "storage_bucket": "fortpork-2025-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865468480010:android:f1a8a9f07828deca423df3",
+        "android_client_info": {
+          "package_name": "com.fortpork2025"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVS3yRRJ1TLE7qJIU8aipziswzfub12Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
