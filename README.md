@@ -30,7 +30,6 @@ Este repositorio corresponde a la entrega final del proyecto **Fortpork**. A con
 
 - Cambiar de usuario sin reiniciar la app no actualiza correctamente la información visible (lista de usuarios, nombre y solicitudes).  
   Es necesario cerrar sesión y reiniciar la aplicación para obtener los datos correctos.
-- Las solicitudes de amistad **no se eliminan** al ser aceptadas o rechazadas. (error presentado en la última revisión)
 
 ---
 
